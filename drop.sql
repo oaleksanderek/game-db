@@ -1,0 +1,11 @@
+DROP TABLE character_quest;
+DROP TABLE player_quest;
+DROP TABLE character_item;
+DROP TABLE skill;
+DROP TABLE character;
+DROP TABLE item;
+DROP TABLE quest;
+DROP TABLE npc;
+DROP TABLE player;
+DROP TABLE loc;
+DROP TABLE region;
